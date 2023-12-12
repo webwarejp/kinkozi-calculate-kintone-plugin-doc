@@ -371,5 +371,5 @@ CONCAT 関数とCONCATENATE 関数の挙動は同じになります。
 
 <br />
 
-[サポート関数（カテゴリ別）](categoly-list.md)  
+[サポート関数（カテゴリ別）](category-list.md)  
 [トップページ](index.md)

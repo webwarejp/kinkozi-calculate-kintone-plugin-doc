@@ -458,5 +458,5 @@ CEILING 関数は数値と基準値の両方に負値を指定したときにExc
 
 <br />
 
-[サポート関数（カテゴリ別）](categoly-list.md)  
+[サポート関数（カテゴリ別）](category-list.md)  
 [トップページ](index.md)

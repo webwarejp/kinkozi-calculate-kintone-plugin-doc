@@ -119,5 +119,5 @@ IF 関数を使うと、条件が TRUE または FALSE の場合に、それぞ�
 
 <br />
 
-[サポート関数（カテゴリ別）](categoly-list.md)  
+[サポート関数（カテゴリ別）](category-list.md)  
 [トップページ](index.md)
