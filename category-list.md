@@ -5,6 +5,7 @@
 | 関数                                                                  | 説明              |
 |:----------------------------------------------------------------------|:-----------------|
 | [DATE 関数](date-time.md#date-)                       | 特定の日付を表す シリアル値を返します。|
+| [DATEDIF 関数](date-time.md#datedif-)                 | 2 つの日付間の日数、月数、年数を計算します。|
 | [DATESTRING 関数](date-time.md#datestring-)           | シリアル値を日付の文字列に変換します。|
 | [DATEVALUE 関数](date-time.md#datevalue-)             | 文字列として格納された日付をシリアル値に変換します。| 
 | [DAY 関数](date-time.md#day-)                         | 日付の日情報を返します。|
@@ -53,6 +54,7 @@
 | [FALSE 関数](logical.md#false-)                       | 論理値 FALSE を返します。|
 | [IF 関数](logical.md#if-)                             | 値または数式が条件を満たしているかどうかを判定します。|
 | [IFERROR 関数](logical.md#iferror-)                   | 数式の結果がエラーの場合は指定した値を返し、それ以外の場合は数式の結果を返します。|
+| [IFS 関数](logical.md#ifs-)                           | 1つ以上の条件が満たされているかどうかをチェックして、最初の TRUE 条件に対応する値を返します。|
 | [NOT 関数](logical.md#not-)                           | 引数の論理値を反転させます。|
 | [OR 関数](logical.md#or-)                             | いずれかの引数が TRUE のときに TRUE を返します。|
 | [SWITCH 関数](logical.md#switch-)                     | 式に対して値の一覧を評価し、最初に一致する値に対応する結果を返します。|
@@ -68,6 +70,7 @@
 | [CHOOSE 関数](lookup-matrix.md#choose-)               | 引数リストの値の中から特定の値を 1 つ選択します。|
 | [INDEX 関数](lookup-matrix.md#index-)                 | 行番号で指定される配列の要素の値を返します。|
 | [ROWS 関数](lookup-matrix.md#rows-)                   | 配列の行数を返します。|
+| [UNIQUE 関数](lookup-matrix.md#unique-)               | 重複しない値を抽出します。|
 
 </div></details>
 
@@ -179,7 +182,6 @@
 
 | 関数                                                                  | 説明              |
 |:----------------------------------------------------------------------|:-----------------|
-| [UNIQUE 関数](miscellaneous.md#unique-)               | 重複しない値を抽出します。|
 | [NULL 関数](miscellaneous.md#null-)                   | NULL を返します。|
 
 </div></details>
