@@ -311,7 +311,7 @@ CEILINGPRECISE 関数, ISOCEILING 関数, CEILINGMATH 関数はすべて同じ�
 
 ### 書式
 
-　　　　RANDBETWEEN(最小値, 最大値)
+    RANDBETWEEN(最小値, 最大値)
 
 | 引数       | 説明         |
 |:-----------|:------------|
