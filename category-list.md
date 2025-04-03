@@ -97,6 +97,8 @@
 | [POWER 関数](math-trig.md#power-)                     | 数値のべき乗を返します。|
 | [PRODUCT 関数](math-trig.md#product-)                 | 引数として指定されたすべての数値を積算し、その積を返します。|
 | [QUOTIENT 関数](math-trig.md#quotient-)               | 除算の商の整数部を返します。|
+| [RAND 関数](math-trig.md#rand-)                       | 0 以上で 1 より小さい実数の乱数を返します。|
+| [RANDBETWEEN 関数](math-trig.md#randbetween-)         | 指定された範囲内の整数の乱数を返します。|
 | [ROUND 関数](math-trig.md#round-)                     | 数値を四捨五入して指定された桁数にします。|
 | [ROUNDDOWN 関数](math-trig.md#rounddown-)             | 数値を指定された桁数で切り捨てます。|
 | [ROUNDUP 関数](math-trig.md#roundup-)                 | 数値を指定された桁数に切り上げます。|
