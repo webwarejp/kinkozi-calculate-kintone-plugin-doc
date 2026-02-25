@@ -42,6 +42,7 @@
 | [ISBLANK 関数](information.md#isblank-)              |テストの対象の値が空のとき TRUE を返します。|
 | [ISERROR 関数](information.md#iserror-)              |テストの対象の値がエラーを示す値のとき TRUE を返します。|
 | [ISEVEN 関数](information.md#iseven-)                |テストの対象の値が偶数のとき TRUE を返します。|
+| [ISNA 関数](information.md#isna-)                    |テストの対象がエラー値 #N/A のときに TRUE を返します。|
 | [ISODD 関数](information.md#isodd-)                  |テストの対象の値が奇数のとき TRUE を返します。|
 
 </div></details>
@@ -54,6 +55,7 @@
 | [FALSE 関数](logical.md#false-)                       | 論理値 FALSE を返します。|
 | [IF 関数](logical.md#if-)                             | 値または数式が条件を満たしているかどうかを判定します。|
 | [IFERROR 関数](logical.md#iferror-)                   | 数式の結果がエラーの場合は指定した値を返し、それ以外の場合は数式の結果を返します。|
+| [IFNA 関数](logical.md#ifna-)                         | 数式の結果が #N/A エラーの場合は指定した値を返し、それ以外の場合は数式の結果を返します。|
 | [IFS 関数](logical.md#ifs-)                           | 1つ以上の条件が満たされているかどうかをチェックして、最初の TRUE 条件に対応する値を返します。|
 | [NOT 関数](logical.md#not-)                           | 引数の論理値を反転させます。|
 | [OR 関数](logical.md#or-)                             | いずれかの引数が TRUE のときに TRUE を返します。|
@@ -69,6 +71,7 @@
 |:----------------------------------------------------------------------|:-----------------|
 | [CHOOSE 関数](lookup-matrix.md#choose-)               | 引数リストの値の中から特定の値を 1 つ選択します。|
 | [INDEX 関数](lookup-matrix.md#index-)                 | 行番号で指定される配列の要素の値を返します。|
+| [MATCH 関数](lookup-matrix.md#match-)                 | 指定の検査値を配列内で検索し、相対位置を返します。|
 | [ROWS 関数](lookup-matrix.md#rows-)                   | 配列の行数を返します。|
 | [UNIQUE 関数](lookup-matrix.md#unique-)               | 重複しない値を抽出します。|
 
